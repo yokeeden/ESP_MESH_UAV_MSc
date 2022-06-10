@@ -1,5 +1,5 @@
 # ESP_MESH_UAV_MSc
-A repository containg C code from my Master of Science thesis "Conceptual design of the Wi-Fi controller for the unmanned platform measurement system." ESP32, ESP-MESH framework and FreeRTOS used in development.
+A repository containing C code from my Master of Science thesis "Conceptual design of the Wi-Fi controller for the unmanned platform measurement system." ESP32, ESP-MESH framework and FreeRTOS used in development.
 Abstract of my MSc thesis:
 Along with the progressive development of wireless data transmission and processing techniques, solutions are emerging that assume the replacement of traditional wired networks used in the structures of aviation measurement systems with their wireless counterparts. Such solutions are known under the notion of wireless sensor networks, and their use in aviation can bring many benefits, the most important of which is the reduction of the weight of the aircraft, which directly translates into a reduction in operating costs.
 The interest in the issues described above, as well as the desire to explore the possibilities they offer, were the motivation to undertake the task of carrying out this work, the subject of which is the use of the idea of wireless sensor networks in the field of aviation measurement systems.
